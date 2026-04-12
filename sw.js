@@ -1,4 +1,4 @@
-const CACHE_NAME = 'appshub-v2';
+const CACHE_NAME = 'appshub-v3';
 const urlsToCache = [
   './',
   './index.html',
@@ -20,7 +20,8 @@ const urlsToCache = [
   './assets/konky_dong_icon_1775982414871.png',
   './assets/runny_bunny_icon_1775982430842.png',
   './assets/leos_dino_icon_1775982445099.png',
-  './assets/moonlander_icon_1775982461334.png'
+  './assets/moonlander_icon_1775982461334.png',
+  './assets/lidarbotweb_icon.png'
 ];
 
 self.addEventListener('install', event => {
