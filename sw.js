@@ -1,10 +1,12 @@
-const CACHE_NAME = 'appshub-v5';
+const CACHE_NAME = 'appshub-v6';
 const urlsToCache = [
   './',
   './index.html',
   './impressum.html',
   './datenschutz.html',
   './manifest.json',
+  './favicon.ico',
+  './assets/favicon.png',
   './style.css',
   './fonts.css',
   './fonts/manrope-400.ttf',

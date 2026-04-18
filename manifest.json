@@ -8,7 +8,7 @@
   "description": "Gallery of public GitHub projects by smeraner",
   "icons": [
     {
-      "src": "assets/leos_dino_icon_1775982445099.png",
+      "src": "assets/favicon.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
